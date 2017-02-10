@@ -2,12 +2,13 @@
 //  AppDelegate.m
 //  ImagePickerController
 //
-//  Created by heweihua on 2017/1/13.
+//  Created by heweihua on 2017/2/10.
 //  Copyright © 2017年 heweihua. All rights reserved.
 //
 
 #import "AppDelegate.h"
 #import "MainViewController.h"
+
 
 @interface AppDelegate ()
 
@@ -34,6 +35,7 @@
     
     return YES;
 }
+
 
 
 - (void)applicationWillResignActive:(UIApplication *)application {
